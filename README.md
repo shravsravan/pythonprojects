@@ -7,3 +7,6 @@ errors faced:
 
 day2: Day 2: Random sidekick name generator
 from impractical python projects book
+
+Day3: Palingram
+from impractical python projects book
